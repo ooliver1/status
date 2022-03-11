@@ -1,10 +1,13 @@
 # Change these first
 owner: ooliver1 # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: ooliver1
 
 sites:
   - name: Tooty.xyz
     url: https://tooty.xyz
+  - name: Boting.xyz
+    url: https://boting.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
