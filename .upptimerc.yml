@@ -10,6 +10,7 @@ sites:
     url: https://boting.xyz
   - name: Minecat WS
     url: $MINECAT_WS_RAW
+    port: $MINECAT_WS_PORT
     check: "tcp-ping"
 
 status-website:
@@ -19,8 +20,14 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ooliver1/status/master/assets/tilcooks.png
   name: Status
+  theme: dark
   navbar:
     - title: Status
       href: /
-# Upptime also supports notifications, assigning issues, and more
+
+commitMessages:
+  readmeContent: "feat(readme) update summary [skip ci] [upptime]"
+  summaryJson: "chore(status): update summary [skip ci] [upptime]"
+  statusChange: "chore($SITE_NAME) $SITE_NAME is $STATUS\n\n$RESPONSE_CODE in $RESPONSE_TIME ms [skip ci] [upptime]"
+  graphsUpdate: "chore(graphs) update graphs [skip ci] [upptime]"# Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
