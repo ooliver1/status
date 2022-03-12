@@ -1,13 +1,18 @@
 # Change these first
 owner: ooliver1 # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-user-agent: ooliver1
+user-agent: ooliver1 status (https://github.com/ooliver1/status)
+robotsText: "User-agent: *\n Disallow: /"
 
 sites:
   - name: Tooty.xyz
     url: https://tooty.xyz
+    expectedStatusCodes:
+      - 200
   - name: Boting.xyz
     url: https://boting.xyz
+    expectedStatusCodes:
+      - 200
   - name: Minecat WS
     url: $MINECAT_WS_RAW
     port: $MINECAT_WS_PORT
@@ -29,6 +34,5 @@ status-website:
 commitMessages:
   readmeContent: "feat(readme) update summary [skip ci] [upptime]"
   summaryJson: "chore(status): update summary [skip ci] [upptime]"
-  statusChange: "chore($SITE_NAME) $SITE_NAME is $STATUS\n\n$RESPONSE_CODE in $RESPONSE_TIME ms [skip ci] [upptime]"
   graphsUpdate: "chore(graphs) update graphs [skip ci] [upptime]"# Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
