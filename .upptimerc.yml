@@ -11,7 +11,8 @@ sites:
   - name: Minecat WS
     url: $MINECAT_WS_RAW
     port: $MINECAT_WS_PORT
-    check: "tcp-ping"
+    check: "ws"
+    body: '{"uuid": "unknown", "type": "login", "version": "2.2.0uptime"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
