@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ooliver1/status/master/assets/tilcooks.png
   name: Status
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
