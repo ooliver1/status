@@ -4,18 +4,20 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 504,
-    "timeWeek": 577,
-    "timeMonth": 707,
-    "timeYear": 755,
-    "dailyMinutesDown": {}
+    "time": 745,
+    "timeDay": 370,
+    "timeWeek": 535,
+    "timeMonth": 692,
+    "timeYear": 745,
+    "dailyMinutesDown": {
+      "2022-04-22": 0
+    }
   },
   {
     "name": "Boting.xyz",
