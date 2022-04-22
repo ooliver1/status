@@ -4,19 +4,19 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 485,
-    "timeWeek": 522,
-    "timeMonth": 652,
-    "timeYear": 711,
+    "time": 703,
+    "timeDay": 466,
+    "timeWeek": 507,
+    "timeMonth": 643,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2022-04-22": 1
+      "2022-04-22": 0
     }
   },
   {
