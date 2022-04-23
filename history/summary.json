@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 707,
-    "timeDay": 516,
+    "timeDay": 782,
     "timeWeek": 537,
     "timeMonth": 653,
     "timeYear": 707,
@@ -40,17 +40,19 @@
     "url": "$MINECAT_WS_RAW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecat-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 330,
-    "timeWeek": 278,
-    "timeMonth": 297,
-    "timeYear": 295,
-    "dailyMinutesDown": {}
+    "time": 294,
+    "timeDay": 281,
+    "timeWeek": 272,
+    "timeMonth": 295,
+    "timeYear": 294,
+    "dailyMinutesDown": {
+      "2022-04-23": 0
+    }
   }
 ]
