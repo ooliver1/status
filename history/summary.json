@@ -4,19 +4,19 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 696,
+    "time": 694,
     "timeDay": 538,
-    "timeWeek": 500,
-    "timeMonth": 581,
-    "timeYear": 696,
+    "timeWeek": 502,
+    "timeMonth": 580,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 3
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$MINECAT_WS_RAW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecat-ws",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 364,
-    "timeWeek": 267,
-    "timeMonth": 286,
-    "timeYear": 294,
+    "time": 292,
+    "timeDay": 296,
+    "timeWeek": 263,
+    "timeMonth": 285,
+    "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 3
     }
   }
 ]
