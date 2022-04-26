@@ -4,18 +4,20 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 761,
-    "timeWeek": 510,
-    "timeMonth": 587,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 696,
+    "timeDay": 538,
+    "timeWeek": 500,
+    "timeMonth": 581,
+    "timeYear": 696,
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "Boting.xyz",
@@ -40,9 +42,9 @@
     "url": "$MINECAT_WS_RAW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecat-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 267,
     "timeMonth": 286,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   }
 ]
