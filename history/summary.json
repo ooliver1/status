@@ -6,18 +6,16 @@
     "slug": "tooty-xyz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 538,
-    "timeWeek": 502,
-    "timeMonth": 580,
-    "timeYear": 694,
-    "dailyMinutesDown": {
-      "2022-04-26": 3
-    }
+    "time": 695,
+    "timeDay": 546,
+    "timeWeek": 531,
+    "timeMonth": 581,
+    "timeYear": 695,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Boting.xyz",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 108,
-    "timeWeek": 113,
-    "timeMonth": 122,
+    "timeDay": 112,
+    "timeWeek": 116,
+    "timeMonth": 123,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -44,17 +42,15 @@
     "slug": "minecat-ws",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 296,
-    "timeWeek": 263,
+    "time": 293,
+    "timeDay": 287,
+    "timeWeek": 275,
     "timeMonth": 285,
-    "timeYear": 292,
-    "dailyMinutesDown": {
-      "2022-04-26": 3
-    }
+    "timeYear": 293,
+    "dailyMinutesDown": {}
   }
 ]
