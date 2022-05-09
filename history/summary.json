@@ -6,18 +6,16 @@
     "slug": "tooty-xyz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 596,
-    "timeWeek": 639,
-    "timeMonth": 590,
-    "timeYear": 689,
-    "dailyMinutesDown": {
-      "2022-05-08": 1
-    }
+    "time": 691,
+    "timeDay": 578,
+    "timeWeek": 676,
+    "timeMonth": 597,
+    "timeYear": 691,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Boting.xyz",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 112,
-    "timeWeek": 113,
-    "timeMonth": 126,
+    "timeDay": 79,
+    "timeWeek": 109,
+    "timeMonth": 125,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 334,
-    "timeWeek": 331,
-    "timeMonth": 302,
+    "timeDay": 332,
+    "timeWeek": 346,
+    "timeMonth": 305,
     "timeYear": 301,
     "dailyMinutesDown": {}
   }
