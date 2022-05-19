@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 579,
-    "timeWeek": 715,
-    "timeMonth": 617,
-    "timeYear": 696,
+    "time": 698,
+    "timeDay": 936,
+    "timeWeek": 781,
+    "timeMonth": 616,
+    "timeYear": 698,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 103,
-    "timeWeek": 112,
-    "timeMonth": 122,
+    "timeDay": 123,
+    "timeWeek": 113,
+    "timeMonth": 120,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecat-ws",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.51%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "98.51%",
     "time": 302,
-    "timeDay": 236,
-    "timeWeek": 297,
-    "timeMonth": 306,
+    "timeDay": 0,
+    "timeWeek": 308,
+    "timeMonth": 305,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-05-18": 2
+      "2022-05-19": 127,
+      "2022-05-18": 1331
     }
   }
 ]
