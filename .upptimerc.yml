@@ -15,7 +15,7 @@ sites:
       - 200
   - name: Minecat WS
     url: $MINECAT_WS_RAW
-#   port: $MINECAT_WS_PORT
+    port: 443
     check: "ws"
     body: '{"uuid": "unknown", "type": "login", "version": "2.2.0uptime"}'
 
