@@ -4,10 +4,10 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
@@ -15,7 +15,9 @@
     "timeWeek": 782,
     "timeMonth": 648,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 2
+    }
   },
   {
     "name": "Boting.xyz",
@@ -40,18 +42,19 @@
     "url": "$MINECAT_WS_RAW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecat-ws",
-    "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.91%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.45%",
-    "uptimeYear": "95.90%",
+    "uptimeYear": "95.91%",
     "time": 302,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 322,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2022-06-13": 0,
       "2022-05-26": 986,
       "2022-05-25": 672,
       "2022-05-20": 1071,
