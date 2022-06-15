@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 678,
-    "timeDay": 831,
-    "timeWeek": 791,
-    "timeMonth": 655,
+    "timeDay": 578,
+    "timeWeek": 795,
+    "timeMonth": 649,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2022-06-13": 21
@@ -26,18 +26,16 @@
     "slug": "boting-xyz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 2396,
-    "timeWeek": 699,
-    "timeMonth": 230,
+    "timeDay": 2349,
+    "timeWeek": 703,
+    "timeMonth": 231,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2022-06-14": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minecat WS",
@@ -53,7 +51,7 @@
     "time": 302,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 319,
+    "timeMonth": 307,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2022-06-13": 19,
