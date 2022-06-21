@@ -4,10 +4,10 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 670,
@@ -16,7 +16,7 @@
     "timeMonth": 631,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-06-21": 2,
+      "2022-06-21": 1,
       "2022-06-13": 21
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://boting.xyz",
     "icon": "https://favicons.githubusercontent.com/boting.xyz",
     "slug": "boting-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 128,
-    "timeWeek": 350,
-    "timeMonth": 209,
-    "timeYear": 160,
+    "time": 236,
+    "timeDay": 961,
+    "timeWeek": 815,
+    "timeMonth": 396,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 1
     }
   },
   {
@@ -47,8 +47,8 @@
     "slug": "minecat-ws",
     "status": "up",
     "uptime": "96.22%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "96.22%",
     "time": 302,
@@ -57,7 +57,6 @@
     "timeMonth": 0,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-06-21": 1,
       "2022-06-13": 19,
       "2022-05-26": 986,
       "2022-05-25": 672,
