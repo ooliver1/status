@@ -4,11 +4,11 @@
     "url": "https://tooty.xyz",
     "icon": "https://favicons.githubusercontent.com/tooty.xyz",
     "slug": "tooty-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 671,
     "timeDay": 964,
@@ -16,7 +16,7 @@
     "timeMonth": 635,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2022-06-21": 4,
+      "2022-06-21": 2,
       "2022-06-13": 21
     }
   },
@@ -27,8 +27,8 @@
     "slug": "boting-xyz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -36,18 +36,20 @@
     "timeWeek": 783,
     "timeMonth": 391,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Minecat WS",
     "url": "$MINECAT_WS_RAW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "minecat-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "96.22%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.17%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "96.22%",
     "time": 302,
     "timeDay": 0,
@@ -55,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-06-21": 0,
+      "2022-06-21": 4,
       "2022-06-13": 19,
       "2022-05-26": 986,
       "2022-05-25": 672,
